@@ -6,6 +6,8 @@ I used the archive available online to get parameters for confirmed exoplanets. 
 
 ### Mass v. Radii Plot ###
 
+From this plot, we can see that there is a gap between two sections along the planet radii axis. This is possibly due to the existence of both rocky and gas planets.
+
 ![data1_graph](https://user-images.githubusercontent.com/39847639/45915983-4836b100-be13-11e8-9448-f1937e6bec48.png)
 
 ### Semi-Major Axis v. Orbital Period Plot ###
@@ -22,3 +24,7 @@ I used the archive available online to get parameters for confirmed exoplanets. 
 Here, I created a Color-Magnitude Diagram for the 10,000 closest stars to our solar system. The blue points are the 10 most closest stars to us.
 
 ![diagram](https://user-images.githubusercontent.com/39847639/45916026-d90d8c80-be13-11e8-9482-5e239583c806.png)
+
+We were then given a challenge to recreate the Color-Magnitude Diagram found in a research paper. The diagram in the paper included all the data from the GAIA archive, but we only used 100,000. This was created with the help of a mentor, Sarah Blunt.
+
+![challenge_diagram](https://user-images.githubusercontent.com/39847639/45922601-53c2c000-be85-11e8-8647-a454a38fed95.png)
