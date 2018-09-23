@@ -21,7 +21,7 @@ From this plot, we can see that there is a gap between two sections along the pl
 ## GAIA Archive ##
 
 ### Color Magnitude Diagram ###
-Here, I created a Color-Magnitude Diagram for the 10,000 closest stars to our solar system. The blue points are the 10 most closest stars to us.
+Here, I created a Color-Magnitude Diagram for the 10,000 closest stars to our solar system. The blue points are the 10 closest stars to us.
 
 ![diagram](https://user-images.githubusercontent.com/39847639/45916026-d90d8c80-be13-11e8-9482-5e239583c806.png)
 
