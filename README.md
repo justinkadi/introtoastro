@@ -4,6 +4,5 @@ Over the summer, I was able to participate in a research program created by Howa
 
 In this repository, you can find the work and projects I worked on through the summer. 
 
-Additionally, I worked on a research proposal as my final project which you can find here:
-[Using_Transmission_Spectra_from_JWST_to_Examine_Biosignatures_on_Europa.pdf](https://github.com/justinkadi/introtoastro/files/2408443/Using_Transmission_Spectra_from_JWST_to_Examine_Biosignatures_on_Europa.pdf)
+Additionally, I worked on a research proposal as my final project which you can find [here](https://github.com/justinkadi/introtoastro/files/2408443/Using_Transmission_Spectra_from_JWST_to_Examine_Biosignatures_on_Europa.pdf)
 I proposed a way to study biosignatures in Europa's geyser plumes using the James Webb Space Telescope to obtain transmission spectra.
